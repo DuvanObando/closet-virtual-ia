@@ -1,0 +1,19 @@
+# === Core del dashboard ===
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# === Gemini (proveedor principal multimodal) - SDK oficial actualizado ===
+google-genai>=1.0.0
+
+# === Proveedores de respaldo (opcional) ===
+groq>=0.9.0
+huggingface-hub>=0.23.0
+
+# === Utilidades ===
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# === Visualización ===
+plotly>=5.17.0

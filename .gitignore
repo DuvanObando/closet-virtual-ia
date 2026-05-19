@@ -1,0 +1,44 @@
+# === Variables de entorno (NUNCA subir claves) ===
+.env
+.env.local
+*.env
+
+# === Entornos virtuales ===
+venv/
+env/
+.venv/
+ENV/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# === Streamlit ===
+.streamlit/secrets.toml
+
+# === IDEs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# === Subidas temporales del usuario ===
+data/uploads/
+*.tmp
+
+# === Logs ===
+*.log
+logs/
+
+# === Notebooks ===
+*.ipynb_checkpoints/
