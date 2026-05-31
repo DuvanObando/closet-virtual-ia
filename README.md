@@ -92,4 +92,4 @@ Ver docs/decisiones_tecnicas.md para más detalle.
 
 ## 👤 Autor
 
-Duvan — Sistemas Expertos con IA
+Duvan Obando — Sistemas Expertos con IA
